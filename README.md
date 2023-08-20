@@ -1,2 +1,2 @@
 # Travel-List
-Created with CodeSandbox
+simple project with react
